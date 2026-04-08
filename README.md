@@ -136,7 +136,12 @@ Use these topics/tags for the repository:
 - Developed and deployed a simple NLP workflow in Python
 - Practiced cloud testing and validation with AWS CloudShell
 
-## Notes
+## GitHub Repository Details
 
-- The frontend currently uses a public API Gateway endpoint.
-- If the API URL changes, update the fetch call in `index.html`.
+- Description: Serverless AWS sentiment analyzer built with Lambda, API Gateway, Python, and a responsive web UI
+- Website: https://pi7aowsm33.execute-api.us-east-1.amazonaws.com/Production/analyze
+- Topics: aws aws-lambda api-gateway serverless python javascript html css sentiment-analysis cloud-computing nlp cors
+- Home page: Use this README as the repository home page summary
+- Releases: Not used yet
+- Deployments: Not used yet
+- Packages: Not used yet
